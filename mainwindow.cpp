@@ -236,7 +236,7 @@ void MainWindow::on_Door_clicked()
             ui->start->setText("");
             ui->push_reset->setDisabled(true);
             ui->push_reset->setText("");
-            //ui->push_reset->setStyleSheet("bagroundcolor:white");
+
             ui->minus->setDisabled(true);
             ui->minus->setText("");
             //ui->minus->setStyleSheet("bagroundcolor:white");
